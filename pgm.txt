@@ -1,6 +1,0 @@
-FILE(prog.txt)
-void main()
-{
-a = c + b
-}
-xjgchqgcwhgkvjcnwehnh
